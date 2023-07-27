@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jafor</h1>[![](https://visitcount.itsvg.in/api?id=abujaforhadi&icon=0&color=1)](https://visitcount.itsvg.in)
+<h1 align="center">Hi 👋, I'm Jafor</h1>
 
 
 
@@ -34,3 +34,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abujaforhadi&icon=0&color=1)](https://visitcount.itsvg.in)
