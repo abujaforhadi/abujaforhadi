@@ -26,8 +26,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abujaforhadi&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abujaforhadi&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abujaforhadi&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abujaforhadi&theme=blue-green&hide_border=false)<br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
