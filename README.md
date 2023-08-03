@@ -1,3 +1,5 @@
+![image](https://github.com/abujaforhadi/abujaforhadi/assets/79355299/2c6e53f2-f359-4100-bedb-bf68104bc2a5)
+
 <h1 align="center">Hi 👋, I'm Jafor</h1>
 
 
