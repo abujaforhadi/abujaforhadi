@@ -36,4 +36,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abujaforhadi&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abujaforhadi&icon=0&color=1
+)](https://visitcount.itsvg.in)
