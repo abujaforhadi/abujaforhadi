@@ -13,11 +13,14 @@
 - 💬 Ask me about **hi............**
 
 - 📫 How to reach me **abujaforhadi@gmail.com**
+- CV:[CV-Abu Jafor .pdf](https://github.com/abujaforhadi/abujaforhadi/files/13351967/CV-Abu.Jafor.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abujaforhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abujaforhadi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abujaforhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abujaforhadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abujaforhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt
+="abujaforhadi" height="30" width="40" /></a>
 <a href="https://fb.com/abujaforhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abujaforhadi" height="30" width="40" /></a>
 <a href="https://instagram.com/abu.jafor.hadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu.jafor.hadi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abujaforhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abujaforhadi" height="30" width="40" /></a>
