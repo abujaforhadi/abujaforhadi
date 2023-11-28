@@ -13,7 +13,8 @@
 - 💬 Ask me about **hi............**
 
 - 📫 How to reach me **abujaforhadi@gmail.com**
-- CV:[CV-Abu Jafor .pdf](https://github.com/abujaforhadi/abujaforhadi/files/13351967/CV-Abu.Jafor.pdf)
+- CV: [CV Abu Jafor.pdf](https://github.com/abujaforhadi/abujaforhadi/files/13489875/CV.Abu.Jafor.pdf)
+
 
 
 <h3 align="left">Connect with me:</h3>
