@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Jafor</h1>
 
 
-
 - 🔭 I’m currently working on **Tour Advisor**
 
 - 🌱 I’m currently learning **Bug Bounty**
