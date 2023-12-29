@@ -12,8 +12,7 @@
 - 💬 Ask me about **hi............**
 
 - 📫 How to reach me **abujaforhadi@gmail.com**
-- CV: [CV Abu Jafor.pdf](https://github.com/abujaforhadi/abujaforhadi/files/13489875/CV.Abu.Jafor.pdf)
-
+- CV: [CV_Abu Jafor.pdf](https://github.com/abujaforhadi/abujaforhadi/files/13791370/CV_Abu.Jafor.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -25,6 +24,7 @@
 <a href="https://instagram.com/abu.jafor.hadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu.jafor.hadi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abujaforhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abujaforhadi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abu_jafor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abu_jafor" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
