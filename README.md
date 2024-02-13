@@ -1,6 +1,6 @@
 ![image](https://github.com/abujaforhadi/abujaforhadi/assets/79355299/2c6e53f2-f359-4100-bedb-bf68104bc2a5)
 
-<h1 align="L">Hi 👋, I am Abu Jafor. </h1> <p>I am studying my Bachelor of Science in Computer Science and Engineering at Green University of Bangladesh.</p>
+<h1 align="center">Hi 👋, I am Abu Jafor. </h1> <p>I am studying my Bachelor of Science in Computer Science and Engineering at Green University of Bangladesh.</p>
 
 
 
