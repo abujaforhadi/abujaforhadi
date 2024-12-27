@@ -55,3 +55,10 @@ Here are some of my notable projects:
 
 💡 **Let’s Build Something Amazing Together!**  
 Feel free to reach out for collaboration, ideas, or just to say hi. 🚀  
+
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=abujaforhadi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
