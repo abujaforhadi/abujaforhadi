@@ -61,11 +61,6 @@ A career-focused platform connecting job seekers with employers.
 
 ---
 
-💡 **Let’s Build Something Amazing Together!**  
-Feel free to reach out for collaboration, ideas, or just to say hi. 🚀  
-
----
-
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)  
 
