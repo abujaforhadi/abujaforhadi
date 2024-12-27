@@ -1,5 +1,6 @@
 # Hi there! 👋 I’m **Abu Jafor**  
 ![Profile Image](https://github.com/abujaforhadi/abujaforhadi/assets/79355299/2c6e53f2-f359-4100-bedb-bf68104bc2a5)
+Check out my [Lottie Animation](https://lottie.host/7d1cc4f5-1efc-4f67-ac1a-ecc1d28c86b5/Hn60WHtX8B.lottie) in action!
 
 Welcome to my GitHub profile! I’m a **Frontend Developer** passionate about crafting user-friendly, responsive, and efficient web applications.  
 
