@@ -46,12 +46,14 @@ A career-focused platform connecting job seekers with employers.
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/)  [![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([Abu Jafor -FE.pdf](https://github.com/user-attachments/files/18263379/Abu.Jafor.-FE.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/) 
+[![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([Abu Jafor -FE.pdf](https://github.com/user-attachments/files/18263379/Abu.Jafor.-FE.pdf)
 )  
 
 ---
 
 ### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)  [![](https://visitcount.itsvg.in/api?id=abujaforhadi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark) 
+[![](https://visitcount.itsvg.in/api?id=abujaforhadi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ---
