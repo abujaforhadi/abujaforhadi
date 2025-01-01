@@ -21,7 +21,7 @@ An online tutor booking platform for learners and educators.
 ### [**BDSports**](https://bdsports.abujafor.me/)  
 An e-commerce platform for sports equipment.  
 
-### [**BdCareer**](https://bdcareer.abujafor.me/)  
+### [**BdCareer**](https://career.abujafor.me/)  
 A career-focused platform connecting job seekers with employers.  
 
 ---
