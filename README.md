@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I’m a **Frontend Developer** passionate about cr
 ---
 
 ## 💻 About Me  
-- 🌍 **Location**: Bashundhara, Bangladesh  
-- 🎓 **Education**: B.Sc. in Computer Science from Green University  
+- 🌍 **Location**: Bashundhara R/A, Bangladesh  
+- 🎓 **Education**: B.Sc. in Computer Science from Green University of Bangladesh
 - 🛠️ **Skills**: React, JavaScript, Tailwind CSS, Firebase, Node.js, and MongoDB  
 - 🌱 **Currently Learning**: Advanced JavaScript and enhancing backend development skills  
 
