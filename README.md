@@ -1,7 +1,7 @@
 # Hi there! 👋 I’m **Abu Jafor**  
 ![Profile Image](https://github.com/abujaforhadi/abujaforhadi/assets/79355299/2c6e53f2-f359-4100-bedb-bf68104bc2a5)
 
-Welcome to my GitHub profile! I’m a **Frontend Developer** passionate about crafting user-friendly, responsive, and efficient web applications.  
+Welcome to my GitHub profile! I’m a **Full-stack Developer** passionate about crafting user-friendly, responsive, and efficient web applications.  
 
 ---
 
