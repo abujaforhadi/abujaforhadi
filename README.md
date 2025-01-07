@@ -39,7 +39,11 @@ A career-focused platform connecting job seekers with employers.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
 ---
-
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/) 
+[![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([Abu Jafor -FE.pdf](https://github.com/user-attachments/files/18263379/Abu.Jafor.-FE.pdf)
+)  
+---
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)  
 <div align="center">
@@ -50,10 +54,6 @@ A career-focused platform connecting job seekers with employers.
 
 ---
 
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/) 
-[![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([Abu Jafor -FE.pdf](https://github.com/user-attachments/files/18263379/Abu.Jafor.-FE.pdf)
-)  
 
 ---
 
