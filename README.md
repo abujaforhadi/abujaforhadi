@@ -1,5 +1,5 @@
-# Hi there! 👋 I’m **Abu Jafor**  
-![Profile Image](https://github.com/abujaforhadi/abujaforhadi/assets/79355299/2c6e53f2-f359-4100-bedb-bf68104bc2a5)
+# Hi there! 👋 I’m **Md. Abu Jafor**  
+![Abu Jafor](https://github.com/user-attachments/assets/a8f3df3f-3d58-4a0c-ba8d-3a694ac1206e)
 
 Welcome to my GitHub profile! I’m a **Full-stack Developer** passionate about crafting user-friendly, responsive, and efficient web applications.  
 
