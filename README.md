@@ -45,6 +45,7 @@ A career-focused platform connecting job seekers with employers.
 )  
 ---
 ## 📈 GitHub Stats  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abujaforhadi&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)  
 
 <div align="center">
@@ -52,7 +53,6 @@ A career-focused platform connecting job seekers with employers.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abujaforhadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abujaforhadi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=abujafor)](https://git.io/streak-stats)
 
 ---
 
