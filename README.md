@@ -57,7 +57,7 @@ A career-focused platform bridging the gap between job seekers and employers.
 
 📧 **Email**: [abujaforhadi@gmail.com](mailto:abujaforhadi@gmail.com)  
 📞 **Phone**: [+8801767606839](tel:+8801767606839)  
-💬 **WhatsApp**: [Message me on WhatsApp](https://wa.me/qr/SMI4DEZWPD7PP1)
+💬 **WhatsApp**: [WhatsApp](https://wa.me/8801767606839)
 
 ---
 
