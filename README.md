@@ -7,12 +7,12 @@ Welcome to my GitHub! I'm a **Full-stack Developer** passionate about building m
 
 ## 💼 Work Experience  
 
-### 🚀 Front-End Developer — **ASG Shop**  
+### 🚀 Front-End Developer — [**ASG Shop**](https://www.asgshop.ai/)  
 **March 2025 – Present**  
 - Working in the **Tech Department** under the supervision of **Hayet Mahmud Ratul (Tech Lead)**  
 - Developing and maintaining dynamic e-commerce solutions using **React, Next.js, Tailwind CSS, and JavaScript**  
 - Optimizing UI/UX for performance, responsiveness, and accessibility  
-- Collaborating with backend teams to implement seamless API integrations  
+- Collaborating with backend teams to implement seamless API integrations
 
 ---
 
