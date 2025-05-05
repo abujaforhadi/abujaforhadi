@@ -63,7 +63,7 @@ A career-focused platform bridging the gap between job seekers and employers.
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abujaforhadi&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=abujaforhadi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)  
 
 <div align="center">
