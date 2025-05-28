@@ -52,7 +52,8 @@ A career-focused platform bridging the gap between job seekers and employers.
 
 ## 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/)  [![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/user-attachments/files/19608021/Resume_Abu_Jafor.pdf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/)  [![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([Resume_Abu_Jafor.pdf](https://github.com/user-attachments/files/20481885/Resume_Abu_Jafor.pdf)
+)  
 
 📧 **Email**: [abujaforhadi@gmail.com](mailto:abujaforhadi@gmail.com)  
 📞 **Phone**: [+8801767606839](tel:+8801767606839)  
