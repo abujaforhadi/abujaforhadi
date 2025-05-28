@@ -1,39 +1,46 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I%E2%80%99m+Md.+Abu+Jafor)](https://git.io/typing-svg)![Abu Jafor](https://github.com/user-attachments/assets/a8f3df3f-3d58-4a0c-ba8d-3a694ac1206e)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I%E2%80%99m+Md.+Abu+Jafor)](https://git.io/typing-svg)
+![Profile Banner](https://github.com/user-attachments/assets/a8f3df3f-3d58-4a0c-ba8d-3a694ac1206e)
 
-Welcome to my GitHub! I'm a **Full-stack Developer** passionate about building modern, responsive, and efficient web applications.
+# 👋 Welcome to My GitHub!
+
+I'm **Md. Abu Jafor**, a **Full-Stack Developer** from Dhaka, Bangladesh — passionate about building modern, efficient, and scalable web applications.
 
 ---
 
-## 💼 Work Experience  
+## 💼 Work Experience
 
 ### 🚀 Front-End Developer — [**ASG Shop**](https://www.asgshop.ai/)  
 **March 2025 – Present**  
-- Working in the **Tech Department** under the supervision of **Hayet Mahmud Ratul (Tech Lead)**  
-- Developing and maintaining dynamic e-commerce solutions using **React, Next.js, Tailwind CSS, and JavaScript**  
-- Optimizing UI/UX for performance, responsiveness, and accessibility  
-- Collaborating with backend teams to implement seamless API integrations
+- Working under **Hayet Mahmud Ratul (Tech Lead)**  
+- Developed responsive e-commerce features using **React, Next.js, Tailwind CSS**  
+- Focused on UI/UX optimization and seamless API integration  
+- Collaborated with backend engineers to ensure full-stack functionality  
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
 - 🌍 **Location**: Bashundhara R/A, Dhaka, Bangladesh  
 - 🎓 **Education**: B.Sc. in Computer Science, Green University of Bangladesh  
-- 🛠️ **Skills**: React, Next.js, JavaScript, Tailwind CSS, Firebase, Node.js, MongoDB  
-- 🌱 **Currently Learning**: Advanced JavaScript & backend development  
+- 🧠 **Currently Learning**: Advanced JavaScript & backend architecture  
+- ⚡ **Fun Fact**: I enjoy exploring nature, playing outdoor games, and watching movies!  
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 ### 🔹 [**TutorZon**](https://tutorzen.abujafor.me/)  
-A responsive tutor booking platform connecting learners with educators.  
+A tutor booking platform built with **React, Firebase, Tailwind CSS**  
+[🔗 GitHub](https://github.com/abujaforhadi/TutorZon-client)
 
 ### 🔹 [**BDSports**](https://bdsports.abujafor.me/)  
-An e-commerce platform for sports equipment and accessories.  
+E-commerce platform for sports equipment — **MERN Stack**  
+[🔗 GitHub](https://github.com/abujaforhadi/BDSports)
 
 ### 🔹 [**BdCareer**](https://career.abujafor.me/)  
-A career-focused platform bridging the gap between job seekers and employers.  
+Job portal platform using **React, Node.js, MongoDB**  
+[🔗 GitHub](https://github.com/abujaforhadi/BdCareer)
+
 
 ---
 
@@ -50,31 +57,43 @@ A career-focused platform bridging the gap between job seekers and employers.
 
 ---
 
-## 🔗 Connect with Me  
+## 🏆 Certifications & Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/)  [![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([Resume_Abu_Jafor.pdf](https://github.com/user-attachments/files/20481885/Resume_Abu_Jafor.pdf)
-)  
-
-📧 **Email**: [abujaforhadi@gmail.com](mailto:abujaforhadi@gmail.com)  
-📞 **Phone**: [+8801767606839](tel:+8801767606839)  
-💬 **WhatsApp**: [WhatsApp](https://wa.me/8801767606839)
+- ✅ **Complete Web Development Course** — Programming Hero  
+- ✅ **Advanced React** — Scrimba  
+- 👨‍💻 **Front-End Developer Intern** — Battery Low Interactive Ltd.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abujaforhadi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=abujaforhadi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abujaforhadi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abujaforhadi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abujaforhadi&theme=react&area=true&radius=16" height="300" alt="Activity Graph" />
-</div>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abujaforhadi&theme=react&area=true&radius=16" height="300" />
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/)  
+[![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/user-attachments/files/20481885/Resume_Abu_Jafor.pdf)
+
+📧 **Email**: [abujaforhadi@gmail.com](mailto:abujaforhadi@gmail.com)  
+📞 **Phone**: [+8801767606839](tel:+8801767606839)  
+💬 **WhatsApp**: [Click Here](https://wa.me/8801767606839)
 
 ---
 
 ## ✍️ Dev Quote  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=abujaforhadi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
