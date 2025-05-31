@@ -3,13 +3,16 @@
 
 # 👋 Welcome to My GitHub!
 
-I'm **Md. Abu Jafor**, a **Full-Stack Developer** from Dhaka, Bangladesh — passionate about building modern, efficient, and scalable web applications.
+I'm Md. Abu Jafor, a passionate Software Engineer from Dhaka, Bangladesh — crafting efficient, scalable, and user-centric web applications.
+---
+## 👨‍💼 Professional Summary
+
+Software Engineer with hands-on experience in modern web technologies including **React**, **Next.js**, **Node.js**, and **MongoDB**. Known for building responsive UIs, clean APIs, and real-world full-stack projects that solve actual problems. Adept in team collaboration, agile environments, and continuous learning.
 
 ---
-
 ## 💼 Work Experience
 
-### 🚀 Front-End Developer — [**ASG Shop**](https://www.asgshop.ai/)  
+### 🚀 Software Engineer — [**ASG Shop**](https://www.asgshop.ai/)  
 **March 2025 – Present**  
 - Working under **Hayet Mahmud Ratul (Tech Lead)**  
 - Developed responsive e-commerce features using **React, Next.js, Tailwind CSS**  
@@ -30,15 +33,15 @@ I'm **Md. Abu Jafor**, a **Full-Stack Developer** from Dhaka, Bangladesh — pas
 ## 🚀 Featured Projects
 
 ### 🔹 [**TutorZon**](https://tutorzen.abujafor.me/)  
-A tutor booking platform built with **React, Firebase, Tailwind CSS**  
+A fully functional tutor booking platform built with **React**, **Firebase**, and **Tailwind CSS**. Features include user authentication, role-based routing, and dynamic content management.  
 [🔗 GitHub](https://github.com/abujaforhadi/TutorZon-client)
 
 ### 🔹 [**BDSports**](https://bdsports.abujafor.me/)  
-E-commerce platform for sports equipment — **MERN Stack**  
+An e-commerce platform for sports equipment, built using the **MERN Stack**. Includes admin dashboard, product management, and secure checkout.  
 [🔗 GitHub](https://github.com/abujaforhadi/BDSports)
 
 ### 🔹 [**BdCareer**](https://career.abujafor.me/)  
-Job portal platform using **React, Node.js, MongoDB**  
+Job portal application powered by **React**, **Node.js**, and **MongoDB**, allowing users to apply for jobs and admins to manage listings.  
 [🔗 GitHub](https://github.com/abujaforhadi/BdCareer)
 
 
@@ -59,9 +62,17 @@ Job portal platform using **React, Node.js, MongoDB**
 
 ## 🏆 Certifications & Achievements
 
+## 🏆 Certifications & Achievements
+
 - ✅ **Complete Web Development Course** — Programming Hero  
+  _Covered React, Node.js, REST APIs, and deployment best practices._
+
 - ✅ **Advanced React** — Scrimba  
-- 👨‍💻 **Front-End Developer Intern** — Battery Low Interactive Ltd.
+  _Mastered component architecture, hooks, performance tuning, and state management._
+
+- 👨‍💻 **Front-End Developer Intern** — Battery Low Interactive Ltd.  
+  _Worked on real-world projects with a collaborative team._
+
 
 ---
 
@@ -71,13 +82,9 @@ Job portal platform using **React, Node.js, MongoDB**
   <img src="https://streak-stats.demolab.com?user=abujaforhadi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abujaforhadi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abujaforhadi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" />
-  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abujaforhadi&theme=react&area=true&radius=16" height="300" />
-</div>
 
 ---
 
