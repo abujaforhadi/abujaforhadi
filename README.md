@@ -3,16 +3,16 @@
 
 # 👋 Welcome to My GitHub!
 
-I'm Md. Abu Jafor, a passionate Software Engineer from Dhaka, Bangladesh — crafting efficient, scalable, and user-centric web applications.
+I'm Md. Abu Jafor, a passionate Front End Developer from Dhaka, Bangladesh — crafting efficient, scalable, and user-centric web applications.
 ---
 ## 👨‍💼 Professional Summary
 
-Software Engineer with hands-on experience in modern web technologies including **React**, **Next.js**, **Node.js**, and **MongoDB**. Known for building responsive UIs, clean APIs, and real-world full-stack projects that solve actual problems. Adept in team collaboration, agile environments, and continuous learning.
+Front End Developer with hands-on experience in modern web technologies including **React**, **Next.js**, **Node.js**, and **MongoDB**. Known for building responsive UIs, clean APIs, and real-world full-stack projects that solve actual problems. Adept in team collaboration, agile environments, and continuous learning.
 
 ---
 ## 💼 Work Experience
 
-### 🚀 Software Engineer — [**ASG Shop**](https://www.asgshop.ai/)  
+### Front End Developer — [**ASG Shop**](https://www.asgshop.ai/)  
 **March 2025 – Present**  
 - Working under **Hayet Mahmud Ratul (Tech Lead)**  
 - Developed responsive e-commerce features using **React, Next.js, Tailwind CSS**  
