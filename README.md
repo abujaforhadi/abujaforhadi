@@ -15,7 +15,7 @@ Front End Developer with hands-on experience in modern web technologies includin
 ### Front End Developer — [**ASG Shop**](https://www.asgshop.ai/)  
 **March 2025 – Present**  
 - Working under **Hayet Mahmud Ratul (Tech Lead)**  
-- Developed responsive e-commerce features using **React, Next.js, Tailwind CSS**  
+- Developed responsive e-learning features using **React, Next.js, Tailwind CSS**  
 - Focused on UI/UX optimization and seamless API integration  
 - Collaborated with backend engineers to ensure full-stack functionality  
 
