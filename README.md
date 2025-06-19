@@ -62,8 +62,6 @@ Job portal application powered by **React**, **Node.js**, and **MongoDB**, allow
 
 ## 🏆 Certifications & Achievements
 
-## 🏆 Certifications & Achievements
-
 - ✅ **Complete Web Development Course** — Programming Hero  
   _Covered React, Node.js, REST APIs, and deployment best practices._
 
