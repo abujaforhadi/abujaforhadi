@@ -3,17 +3,21 @@
 
 # 👋 Welcome to My GitHub!
 
-I'm Md. Abu Jafor, a passionate Front End Developer from Dhaka, Bangladesh — crafting efficient, scalable, and user-centric web applications.
+I'm **Md. Abu Jafor**, a passionate **Full Stack Web Developer** from Dhaka, Bangladesh — specializing in building high-performance, scalable, and user-friendly web applications.
+
 ---
+
 ## 👨‍💼 Professional Summary
 
-Front End Developer with hands-on experience in modern web technologies including **React**, **Next.js**, **Node.js**, and **MongoDB**. Known for building responsive UIs, clean APIs, and real-world full-stack projects that solve actual problems. Adept in team collaboration, agile environments, and continuous learning.
+Full Stack Developer with hands-on experience in modern web technologies including **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Mongoose**. Known for building responsive UIs, clean RESTful APIs, and real-world full-stack projects that solve actual problems. Adept in scalable backend architecture, efficient database design, team collaboration, agile environments, and continuous learning.
+
 
 ---
+
 ## 💼 Work Experience
 
-### Front End Developer — [**ASG Shop**](https://www.asgshop.ai/)  
-**March 2025 – Present**  
+### 🧑‍💻 Jr. Web Developer — [**ASG Shop**](https://www.asgshop.ai/)  
+**January 2025 – Present**  
 - Working under **Hayet Mahmud Ratul (Tech Lead)**  
 - Developed responsive e-learning features using **React, Next.js, Tailwind CSS**  
 - Focused on UI/UX optimization and seamless API integration  
@@ -44,19 +48,22 @@ An e-commerce platform for sports equipment, built using the **MERN Stack**. Inc
 Job portal application powered by **React**, **Node.js**, and **MongoDB**, allowing users to apply for jobs and admins to manage listings.  
 [🔗 GitHub](https://github.com/abujaforhadi/BdCareer)
 
-
 ---
 
 ## 🛠️ Tools & Technologies  
 
-### 💻 **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+### 💻 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧩 **Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+### 🧩 Backend & Database  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
-### 🛠️ **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+### ⚙️ Tools, Platforms & DevOps  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
@@ -71,7 +78,6 @@ Job portal application powered by **React**, **Node.js**, and **MongoDB**, allow
 - 👨‍💻 **Front-End Developer Intern** — Battery Low Interactive Ltd.  
   _Worked on real-world projects with a collaborative team._
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -80,9 +86,10 @@ Job portal application powered by **React**, **Node.js**, and **MongoDB**, allow
   <img src="https://streak-stats.demolab.com?user=abujaforhadi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abujaforhadi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abujaforhadi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abujaforhadi&theme=react&area=true&radius=16" height="300" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abujaforhadi&theme=react&area=true&radius=16" height="300" />
 
 ---
 
@@ -98,7 +105,8 @@ Job portal application powered by **React**, **Node.js**, and **MongoDB**, allow
 
 ---
 
-## ✍️ Dev Quote  
+## ✍️ Dev Quote
+
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=abujaforhadi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
