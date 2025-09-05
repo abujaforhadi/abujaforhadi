@@ -97,7 +97,7 @@ Job portal application powered by **React**, **Node.js**, and **MongoDB**, allow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/)  
-[![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/user-attachments/files/20481885/Resume_Abu_Jafor.pdf)
+[![Download CV](https://drive.google.com/file/d/1K6iKtTUaHLH15qTFFLTzFQr2KhXKrY38/view?usp=sharing)
 
 📧 **Email**: [abujaforhadi@gmail.com](mailto:abujaforhadi@gmail.com)  
 📞 **Phone**: [+8801767606839](tel:+8801767606839)  
