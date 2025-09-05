@@ -24,6 +24,16 @@ Full Stack Developer with hands-on experience in modern web technologies includi
 - Collaborated with backend engineers to ensure full-stack functionality  
 
 ---
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi)
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1K6iKtTUaHLH15qTFFLTzFQr2KhXKrY38/view?usp=sharing)
+
+📧 **Email:** [abujaforhadi@gmail.com](mailto:abujaforhadi@gmail.com)  
+📞 **Phone:** [+880 1767-606-839](tel:+8801767606839)  
+💬 **WhatsApp:** [Click to chat](https://wa.me/8801767606839)
+---
 
 ## 👨‍💻 About Me
 
@@ -93,17 +103,7 @@ Job portal application powered by **React**, **Node.js**, and **MongoDB**, allow
 
 ---
 
-## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abujaforhadi/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abujaforhadi/)  
-[![Download CV](https://drive.google.com/file/d/1K6iKtTUaHLH15qTFFLTzFQr2KhXKrY38/view?usp=sharing)
-
-📧 **Email**: [abujaforhadi@gmail.com](mailto:abujaforhadi@gmail.com)  
-📞 **Phone**: [+8801767606839](tel:+8801767606839)  
-💬 **WhatsApp**: [Click Here](https://wa.me/8801767606839)
-
----
 
 ## ✍️ Dev Quote
 
