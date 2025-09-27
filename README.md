@@ -16,7 +16,7 @@ Full Stack Developer with hands-on experience in modern web technologies includi
 
 ## 💼 Work Experience
 
-### 🧑‍💻 Full Stack Developer — [**parcel trade international**](www.parceltradeint.com)  
+### 🧑‍💻 Full Stack Developer — [**Parcel Trade International**](www.parceltradeint.com)  
 **October 2025 – Present**  
 - Developed responsive e-learning features using **React, Next.js, Tailwind CSS**  
 - Focused on UI/UX optimization and seamless API integration  
