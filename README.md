@@ -16,9 +16,9 @@ Full Stack Developer with hands-on experience in modern web technologies includi
 
 ## 💼 Work Experience
 
-### 🧑‍💻 Jr. Web Developer — [**ASG Shop**](https://www.asgshop.ai/)  
-**January 2025 – Present**  
-- Working under **Hayet Mahmud Ratul (Tech Lead)**  
+### 🧑‍💻 Full Stack Developer — [**parcel trade international**](www.parceltradeint.com
+)  
+**October 2025 – Present**  
 - Developed responsive e-learning features using **React, Next.js, Tailwind CSS**  
 - Focused on UI/UX optimization and seamless API integration  
 - Collaborated with backend engineers to ensure full-stack functionality  
