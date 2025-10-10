@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I%E2%80%99m+Md.+Abu+Jafor)](https://git.io/typing-svg)
-![Profile Banner](https://github.com/user-attachments/assets/a8f3df3f-3d58-4a0c-ba8d-3a694ac1206e)
+![jafor sir cover-01](https://github.com/user-attachments/assets/96369030-603c-49bc-bfa9-029144841c22)
 
 # 👋 Welcome to My GitHub!
 
