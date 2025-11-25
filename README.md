@@ -62,7 +62,9 @@ A full-stack logistics system for parcel booking, delivery assignment, and track
 [![Phone](https://img.shields.io/badge/Phone-01767--606--839-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801767606839)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abujaforhadi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jafor.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jafor.me)
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1K6iKtTUaHLH15qTFFLTzFQr2KhXKrY38/view?usp=sharing)
 
+---
 
 ## 🛠️ Tools & Technologies  
 
@@ -106,3 +108,5 @@ A full-stack logistics system for parcel booking, delivery assignment, and track
 
 ## ✍️ Developer Quote  
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?ty)
+
+[![](https://visitcount.itsvg.in/api?id=abujaforhadi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
