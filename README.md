@@ -4,9 +4,9 @@
 
 # 👋 Welcome to My GitHub!
 
-I'm **Md. Abu Jafor**, a dedicated **Full Stack Developer** from Dhaka, Bangladesh.  
-I build scalable and high-performance web applications using modern JavaScript, TypeScript, and full-stack technologies. My work focuses on clean architecture, responsive design, and reliable backend systems. I enjoy turning complex requirements into simple, user-friendly solutions.
----
+I'm **Md. Abu Jafor**, a dedicated **Full Stack Developer** from Dhaka, Bangladesh.
+
+I build scalable, high-performance web applications using modern JavaScript, TypeScript, and full-stack technologies.  My work centers on clean architecture, responsive interfaces, and dependable backend systems.  I enjoy turning complex problems into simple, user-friendly solutions.
 
 ## 👨‍💼 Professional Summary
 
