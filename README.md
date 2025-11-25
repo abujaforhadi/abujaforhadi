@@ -91,12 +91,6 @@ Job portal application powered by **React**, **Node.js**, and **MongoDB**, allow
 
 ## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=abujaforhadi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</a>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujaforhadi&show_icons=true&theme=radical)  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abujaforhadi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abujaforhadi&theme=react&area=true&radius=16" height="300" />
 
