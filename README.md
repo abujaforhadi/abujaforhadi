@@ -55,29 +55,14 @@ A full-stack logistics system for parcel booking, delivery assignment, and track
 
 ---
 
-### 🔹 **TutorZon – Online Tutor Booking Platform**  
-**Tech:** React, Firebase, Tailwind CSS  
-A complete tutor booking system with authentication, dynamic search, and user dashboards.  
-**Live:** https://tutorzen.abujafor.me/  
-**GitHub:** https://github.com/abujaforhadi/TutorZon-client
+## 📞 Contact
 
----
+[![Email](https://img.shields.io/badge/Email-abujaforhadi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abujaforhadi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801767606839)
+[![Phone](https://img.shields.io/badge/Phone-01767--606--839-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801767606839)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abujaforhadi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jafor.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jafor.me)
 
-### 🔹 **BDSports – Sports E-commerce Platform**  
-**Tech:** MERN Stack, Tailwind CSS, JWT Auth  
-E-commerce platform with admin dashboard, product management, and secure checkout.  
-**Live:** https://bdsports.abujafor.me/  
-**GitHub:** https://github.com/abujaforhadi/BDSports
-
----
-
-### 🔹 **BdCareer – Job Portal Application**  
-**Tech:** React, Node.js, Express.js, MongoDB  
-Job portal enabling users to apply for jobs and admins to manage listings.  
-**Live:** https://career.abujafor.me/  
-**GitHub:** https://github.com/abujaforhadi/BdCareer
-
----
 
 ## 🛠️ Tools & Technologies  
 
